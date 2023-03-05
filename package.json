@@ -1,0 +1,17 @@
+{
+  "name": "divisible-by",
+  "version": "1.0.0",
+  "description": "divisibleBy finder and its multiplier",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "bilal-amjad",
+  "gitprofile": "@thedevelop3r",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
